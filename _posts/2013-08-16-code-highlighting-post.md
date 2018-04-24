@@ -5,6 +5,7 @@ description: "Demo post displaying the various ways of highlighting code in Mark
 modified: 2016-06-01T15:27:45-04:00
 tags: [sample post, code, highlighting]
 image:
+  path: https://nesffer.github.io/images/abstract-10.jpg
   feature: abstract-10.jpg
   credit: dargadgetz
   creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
@@ -84,7 +85,7 @@ Indentation matters. Be sure the indent of the code block aligns with the first 
 
 1. Do step 1.
 2. Now do this:
-   
+
    ```ruby
    def print_hi(name)
      puts "Hi, #{name}"
@@ -92,7 +93,7 @@ Indentation matters. Be sure the indent of the code block aligns with the first 
    print_hi('Tom')
    #=> prints 'Hi, Tom' to STDOUT.
    ```
-        
+
 3. Now you can do this.
 
 ### GitHub Gist Embed
