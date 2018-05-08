@@ -14,7 +14,7 @@ modified: 2018-04-24
 * 매일 출석
 * 매일 길드전 참전
 * 출석 및 길드전이 불가능한 사정이 생겼다면 미리 공지
-* 카카오톡 키워드 알림 설정
+* 키워드 알림 설정
 
 ## 운영:
 
@@ -22,7 +22,7 @@ modified: 2018-04-24
 * 조조 (부길드장)
 * 황후 (톡방관리)
 * 써니프루티 (전력분석담당관)
-* 네스퍼 (전문가)
+* Nesffer (전문가)
 
 <div markdown="0">
   <a href="https://open.kakao.com/o/sBvGHRK" class="btn btn-warning" target="_blank">길드장 오픈채팅</a>

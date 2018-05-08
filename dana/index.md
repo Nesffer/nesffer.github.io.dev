@@ -14,13 +14,14 @@ modified: 2018-04-24
 * 매일 출석
 * 매일 길드전 참전
 * 출석 및 길드전이 불가능한 사정이 생겼다면 미리 공지
-* 카카오톡 키워드 알림 설정
+* 키워드 알림 설정
 
 ## 운영:
 
 * Nesffer (길드장)
 * 에아뽀 (부길드장)
 * 오브닝 (전문가)
+* 카다브라 (전문가)
 
 <div markdown="0">
   <a href="https://open.kakao.com/o/sb4XgfI" class="btn btn-warning" target="_blank">길드장 오픈채팅</a>
