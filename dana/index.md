@@ -21,7 +21,6 @@ modified: 2018-04-24
 * Nesffer (길드장)
 * 에아뽀 (부길드장)
 * 오브닝 (전문가)
-* 카다브라 (전문가)
 
 <div markdown="0">
   <a href="https://open.kakao.com/o/sb4XgfI" class="btn btn-warning" target="_blank">길드장 오픈채팅</a>
