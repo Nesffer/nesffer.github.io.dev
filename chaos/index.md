@@ -26,7 +26,6 @@ modified: 2018-04-24
 
 <div markdown="0">
   <a href="https://open.kakao.com/o/sBvGHRK" class="btn btn-warning" target="_blank">길드장 오픈채팅</a>
-  <a href="https://open.kakao.com/o/gUwBI7C" class="btn btn-warning" target="_blank">카오스 오픈채팅</a>
-  <a href="https://open.kakao.com/o/gnPJzzI" class="btn btn-warning" target="_blank">카오스 공지사항</a>
+  <a href="https://open.kakao.com/o/gnPJzzI" class="btn btn-warning" target="_blank">카오스 오픈채팅</a>
   <a href="https://docs.google.com/spreadsheets/d/1h_klcoNP74gYN6vhT8IKGDje11kuLGLFw_2xOdiANaQ/edit?usp=sharing" class="btn btn-success" target="_blank">길드전 기록</a>
 </div>
