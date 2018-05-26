@@ -22,6 +22,7 @@ modified: 2018-04-24
 * 에아뽀 (부길드장)
 * 오브닝 (전문가)
 * 허니학 (전문가)
+* 페기 (전문가)
 
 <div markdown="0">
   <a href="https://open.kakao.com/o/sb4XgfI" class="btn btn-warning" target="_blank">길드장 오픈채팅</a>
