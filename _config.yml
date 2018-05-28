@@ -5,13 +5,13 @@ reading_time: false
 words_per_minute: 200
 # Your site's domain goes here (eg: https://mmistakes.github.io, http://yourdomain.com, etc)
 # When testing locally leave blank or use http://localhost:4000
-url: https://nesffer.github.io
+url: https://nesffer.app
 
 # Owner/author information
 owner:
   name: Nesffer
   avatar: penguin.png
-  bio: "펭귄이에요~"
+  bio: "펭귄!"
   email: nesffer.jimin@gmail.com
   # Social networking links used in footer. Update and remove as you like.
   twitter: Nesffer
