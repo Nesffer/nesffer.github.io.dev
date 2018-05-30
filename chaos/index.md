@@ -2,7 +2,7 @@
 layout: page
 title: 오버히트 카오스 길드
 comments: false
-modified: 2018-04-24
+modified: 2018-05-30
 ---
 
 **카오스**는 2017년 11월 21일 사전생성된 [오버히트](http://overhit.nexon.com)의 길드 입니다.
@@ -20,7 +20,6 @@ modified: 2018-04-24
 
 * 유비 (길드장)
 * 조조 (부길드장)
-* 황후 (톡방관리)
 * 써니프루티 (전력분석담당관)
 * Nesffer (전문가)
 
