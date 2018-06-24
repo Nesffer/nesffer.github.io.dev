@@ -27,10 +27,8 @@ modified: 2018-06-25
 <div markdown="0">
     <a href="https://open.kakao.com/o/g4Xm51N" class="btn btn-warning" target="_blank">데이나 가입문의</a>
     <a href="https://open.kakao.com/o/gYLt8xH" class="btn btn-warning" target="_blank">데이나 오픈채팅</a>
-    <del>
-        <a href="https://docs.google.com/spreadsheets/d/1ZnPfIhEc3qUZB466OW6nyQqMgHwaqbVRZ4tWoUYs4gs/edit?usp=sharing" class="btn btn-success" target="_blank">길드전 기록</a>
-    </del>
-    <del>
-        <a href="https://www.dropbox.com/sh/6mqn3kniewyc0aq/AABSgar7ZblxRM-3sWvF8M4Pa?dl=0" class="btn btn-info" target="_blank">길드전 스크린샷</a>
-    </del>
+    <!--
+    <a href="https://docs.google.com/spreadsheets/d/1ZnPfIhEc3qUZB466OW6nyQqMgHwaqbVRZ4tWoUYs4gs/edit?usp=sharing" class="btn btn-success" target="_blank">길드전 기록</a>
+    <a href="https://www.dropbox.com/sh/6mqn3kniewyc0aq/AABSgar7ZblxRM-3sWvF8M4Pa?dl=0" class="btn btn-info" target="_blank">길드전 스크린샷</a>
+    -->
 </div>
